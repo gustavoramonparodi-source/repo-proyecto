@@ -1,0 +1,29 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Checkpoints de Jupyter/Google Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Archivos de entorno virtual
+.env
+.venv/
+env/
+
+# Archivos de datos pesados (evitar subir al repo)
+*.xlsx
+*.xls
+
+# Archivos de log
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*~
